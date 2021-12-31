@@ -18,7 +18,10 @@ drpbod.m -- provides the magnitude and phase vectors for tfs constructed using d
 drplmp.m -- just calculates log magnitude and phase as function of frequency for any tf            
 
 drphpf.m -- fits a tf of form H(s) = gn * (tv * s / (tv * s + 1)) * s^k to frequency response data              
-drphpd.m -- finds difference between frequency response data and estimates based on above tf                
+drphpd.m -- finds difference between frequency response data and estimates based on above tf       
+
+drplpf.m -- fits a tf of form H(s) = gn * (1 / (te * s + 1)) * s^k to frequency response data
+drplpd.m -- finds difference between frequency response data and estimates based on above tf
 
 drpltf.m -- fits a tf of form H(s) = gn * (te * s + 1) * s^k to frequency response data              
 drpltd.m -- finds difference between frequency response data and estimates based on above tf               
