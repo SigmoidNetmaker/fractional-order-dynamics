@@ -8,7 +8,7 @@ Anastasio TJ. The fractional-order dynamics of brainstem vestibulo-oculomotor ne
 
 Included in that article is some mathematical development, for which I acknowledge the contributions of Ehtibar Dzhafarov. 
 
-All of the code takes the form of MATLAB mfiles. The principle set of mfiles has the letters "drp" in the filename, which denotes distributed relaxation process. 
+All of the code takes the form of MATLAB mfiles. The principle set of mfiles has the letters "drp" in the filename, which denotes "distributed relaxation process". 
 
 Here is a list of the drp mfiles and what they do. 
 
