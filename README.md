@@ -31,7 +31,7 @@ drplpd.m -- finds difference between frequency response data and estimates based
 drpltf.m -- fits a tf of form H(s) = gn * (te * s + 1) * s^k to frequency response data              
 drpltd.m -- finds difference between frequency response data and estimates based on above tf               
 
-drpmsl.m -- finds mean squared error between frequency response data and tf of form H(s) = gn * (1 / (te * s + 1)) * s^k            
-drpmsr.m -- finds mean square error between phase, r and k parameters and tf of form H(s) = gn * (te * s + 1) * s^k               
-drprkt.m -- finds magnitude, phase, and coefficients r and k for any tf (but relevent to brainstem neurons)                                       
+drpmsl.m -- finds mse between frequency response data and tf of form H(s) = gn * (1 / (te * s + 1)) * s^k            
+drpmsr.m -- finds mse between phase, r and k parameters and tf of form H(s) = gn * (te * s + 1) * s^k               
+drprkt.m -- finds magnitude, phase, and coefficients r and k for any tf                                                       
 
